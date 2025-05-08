@@ -1,6 +1,8 @@
+**AbsenSiswa**  
 **Aplikasi Absensi Siswa Berbasis Web**
 
-![](media/image1.jpeg){width="1.9652777777777777in" height="1.8in"}
+![](media/image1.jpg){width="2.0833333333333335in"
+height="2.0416666666666665in"}
 
 **Nurul Ardaniyah  
 D0220037**
@@ -80,7 +82,7 @@ D0220037**
 | **id_siswa**    | **int(11)**                            | **Nullable, jika role = siswa** |
 | **id_guru**     | **int(11)**                            | **Nullable, jika role = guru**  |
 
-**Jenis** **relasi dan tabel yang berelasi**
+**Jenis relasi dan tabel yang berelasi**
 
 | **Tabel 1**  | **Tabel 2** | **Jenis Relasi** | **Penjelasan**                                            |
 |--------------|-------------|------------------|-----------------------------------------------------------|
