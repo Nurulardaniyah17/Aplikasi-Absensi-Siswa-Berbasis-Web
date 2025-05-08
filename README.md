@@ -1,14 +1,18 @@
-# AbsenSiswa  
-Aplikasi Absensi Siswa Berbasis Web  
+<p align="center">
+<h1>AbsenSiswa</h1>  
+<h3>Aplikasi Absensi Siswa Berbasis Web</h3>  
 
+<p align="center">
 ![Logo](logo.jpg)
+</p>
 
 **Nurul Ardaniyah**  
 D0220037  
 
 **Framework Web-Based**  
-2025  
+2025
 
+</p>
 ---
 
 ## Role dan Fitur-fiturnya
