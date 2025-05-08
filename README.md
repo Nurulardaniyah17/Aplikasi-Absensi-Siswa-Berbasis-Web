@@ -1,18 +1,19 @@
 <p align="center">
+  <img src="logo.jpg" width="200" alt="Logo Aplikasi" />
+</p>
+
+<p align="center">
+
 <h1>AbsenSiswa</h1>  
 <h3>Aplikasi Absensi Siswa Berbasis Web</h3>  
 
-<p align="center">
-![Logo](logo.jpg)
-</p>
-
-**Nurul Ardaniyah**  
-D0220037  
-
-**Framework Web-Based**  
+<strong>Nurul Ardaniyah</strong><br/>  
+D0220037<br/>  
+Framework Web-Based<br/>  
 2025
 
 </p>
+
 ---
 
 ## Role dan Fitur-fiturnya
