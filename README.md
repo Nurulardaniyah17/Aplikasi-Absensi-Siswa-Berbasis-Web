@@ -1,12 +1,15 @@
 <h1 align="center">AbsenSiswa</h1>
-<h3 align="center">Aplikasi Absensi Siswa Berbasis Web</h3>
+<h2 align="center">Aplikasi Absensi Siswa Berbasis Web</h2>
 
 <p align="center">
   <img src="logo.jpg" width="200" alt="Logo Aplikasi" />
 </p>
 
-<p align="center"><strong>Nurul Ardaniyah</strong><br/>D0220037</p>
-<p align="center"><strong>Framework Web-Based<br/>2025</strong></p>
+<h3 align="center">Nurul Ardaniyah</h3>
+<h3 align="center">D0220037</h3>
+<br/>
+<h3 align="center">Framework Web-Based</h3>
+<h3 align="center">2025</h3>
 
 ---
 
