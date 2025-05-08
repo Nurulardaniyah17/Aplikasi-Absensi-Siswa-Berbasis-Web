@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="logo.jpg" width="200" alt="Logo Aplikasi" />
-</p>
-
-<p align="center">
 
 <h1>AbsenSiswa</h1>  
 <h3>Aplikasi Absensi Siswa Berbasis Web</h3>  
